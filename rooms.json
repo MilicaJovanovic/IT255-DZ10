@@ -1,0 +1,21 @@
+[
+ {
+  "type": "Standard",
+  "bedNum": "1",
+  "squareMeters": "20",
+  "pic": "img/standard.jpg"
+ },
+ {
+  "type": "Business",
+  "bedNum": "2",
+  "squareMeters": "35",
+  "pic": "img/business.jpg"
+ },
+ {
+  "type": "Suite",
+  "bedNum": "4",
+  "squareMeters": "40",
+  "pic": "img/suite.jpg"
+ }
+
+]
